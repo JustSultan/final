@@ -1,0 +1,11 @@
+__pycache__
+.coverage
+.env
+.vscode
+.pytest_cache
+media/avatars
+media/posts
+venv/
+.idea
+db.sqlite3
+identifier.sqlite
